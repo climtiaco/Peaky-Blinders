@@ -1,0 +1,52 @@
+
+span {
+  display: inline-block;
+  background-color: lightblue;
+  padding: 5px;
+  border: 1px solid darkgray;
+} 
+
+#icon {
+  display: inline-block;
+  background-color: white;
+  padding: 20px;
+  border: 1px solid darkgray;
+}
+
+/* #one {
+  background-color:cornflowerblue;
+  width: 100px;
+  height: 100px;
+}
+
+#two {
+  background-color: cornflowerblue;
+  width: 100px;
+  height: 118px;
+}
+
+#three {
+  background-color: cornflowerblue;
+  width: 175px;
+  height: 150px;
+} */
+
+/* div,
+span {
+  margin: 1px;
+}
+
+span {
+  border: 1px solid #333;
+  
+  padding: 10px 15px;
+}
+
+#pics span,
+#text span {
+  padding: 25px 30px;
+}
+
+#text span {
+  background-color: white;
+} */
